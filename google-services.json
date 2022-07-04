@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "98011701025",
+    "project_id": "server-wol",
+    "storage_bucket": "server-wol.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:98011701025:android:07f241ab764e42b4466860",
+        "android_client_info": {
+          "package_name": "com.mihaimura.serverwol"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "98011701025-70k1o4jmkepoiq11bt0bqrfbqo2f6ll6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDc2ex7joMbCh9em3hh9SbaZKt4NrRZB4s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "98011701025-70k1o4jmkepoiq11bt0bqrfbqo2f6ll6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
