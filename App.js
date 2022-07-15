@@ -129,7 +129,7 @@ export default function App() {
 					setButtonColor('#03c0f8');
 				}}
 				onPress={async () => {
-					await fetch(`https://${process.env.API}/on`, { method: 'POST' });
+					await fetch(`https://${process.env.API}/proxmox/on`, { method: 'POST' });
 				}}>
 				<Text style={{ color: buttonColor, fontSize: 16 }}>TURN ON</Text>
 			</Pressable>
